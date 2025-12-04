@@ -1,0 +1,5 @@
+{
+  "name": "ProseMirror State Explorer",
+  "description": "A developer tool to visualize ProseMirror editor states, node hierarchies, and evaluate expressions against the active editor view.",
+  "requestFramePermissions": []
+}
